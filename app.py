@@ -7,7 +7,7 @@ import os
 from dotenv import load_dotenv
 
 from models import db, User, Task
-from extensions import db as ext_db
+
 
 load_dotenv()
 
